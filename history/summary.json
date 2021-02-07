@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 876,
-    "timeDay": 876,
+    "timeDay": 922,
     "timeWeek": 876,
     "timeMonth": 876,
     "timeYear": 876,
@@ -22,17 +22,19 @@
     "url": "https://dietetfit.fr",
     "icon": "https://favicons.githubusercontent.com/dietetfit.fr",
     "slug": "dietetfit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2661,
-    "timeDay": 2661,
+    "timeDay": 2112,
     "timeWeek": 2661,
     "timeMonth": 2661,
     "timeYear": 2661,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-07": 0
+    }
   }
 ]
