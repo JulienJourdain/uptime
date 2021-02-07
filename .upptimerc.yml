@@ -8,6 +8,8 @@ sites:
     url: https://blog.cloud.jourdain.io
   - name: Dietetfit
     url: https://dietetfit.fr
+  - name: Dietetfit Beta
+    url: https://dietetfit.cloud.jourdain.io
 
 status-website:
   baseUrl: /uptime
