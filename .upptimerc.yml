@@ -10,6 +10,10 @@ sites:
     url: https://dietetfit.fr
   - name: Dietetfit Beta
     url: https://dietetfit.cloud.jourdain.io
+  - name: Synology
+    url: $SYNOLOGY_URL
+  - name: Home Automation
+    url: $AUTOMATION_URL
 
 status-website:
   cname: uptime.jourdain.io # Custom CNAME
