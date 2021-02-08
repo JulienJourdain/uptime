@@ -12,7 +12,8 @@ sites:
     url: https://dietetfit.cloud.jourdain.io
 
 status-website:
-  baseUrl: /uptime
+  cname: upptime.jourdain.io # Custom CNAME
+  #baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "**Julien's** endpoints uptime monitor and status page."
