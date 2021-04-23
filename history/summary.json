@@ -22,18 +22,20 @@
     "url": "https://dietetfit.fr",
     "icon": "https://favicons.githubusercontent.com/dietetfit.fr",
     "slug": "dietetfit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2883,
-    "timeDay": 4328,
-    "timeWeek": 4830,
-    "timeMonth": 4255,
-    "timeYear": 2883,
-    "dailyMinutesDown": {}
+    "time": 3001,
+    "timeDay": 8440,
+    "timeWeek": 5795,
+    "timeMonth": 4514,
+    "timeYear": 3001,
+    "dailyMinutesDown": {
+      "2021-04-23": 0
+    }
   },
   {
     "name": "Dietetfit Beta",
