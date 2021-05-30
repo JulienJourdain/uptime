@@ -4,19 +4,19 @@
     "url": "https://blog.cloud.jourdain.io",
     "icon": "https://favicons.githubusercontent.com/blog.cloud.jourdain.io",
     "slug": "julien-s-tech-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "59.68%",
+    "uptimeWeek": "94.24%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.64%",
     "time": 924,
-    "timeDay": 1030,
-    "timeWeek": 1057,
-    "timeMonth": 982,
+    "timeDay": 977,
+    "timeWeek": 1040,
+    "timeMonth": 980,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2021-05-30": 1
+      "2021-05-30": 581
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$SYNOLOGY_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "synology",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1465,
-    "timeDay": 2532,
-    "timeWeek": 2006,
-    "timeMonth": 1728,
-    "timeYear": 1465,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "59.72%",
+    "uptimeWeek": "94.25%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.64%",
+    "time": 1472,
+    "timeDay": 2410,
+    "timeWeek": 2041,
+    "timeMonth": 1746,
+    "timeYear": 1472,
     "dailyMinutesDown": {
-      "2021-05-30": 0
+      "2021-05-30": 580
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "$AUTOMATION_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-automation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "59.72%",
+    "uptimeWeek": "94.25%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.64%",
     "time": 414,
-    "timeDay": 545,
-    "timeWeek": 456,
+    "timeDay": 499,
+    "timeWeek": 455,
     "timeMonth": 449,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2021-05-30": 0
+      "2021-05-30": 580
     }
   }
 ]
