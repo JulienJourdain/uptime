@@ -4,10 +4,10 @@
     "url": "https://blog.cloud.jourdain.io",
     "icon": "https://favicons.githubusercontent.com/blog.cloud.jourdain.io",
     "slug": "julien-s-tech-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 924,
@@ -15,7 +15,9 @@
     "timeWeek": 1057,
     "timeMonth": 982,
     "timeYear": 924,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-30": 1
+    }
   },
   {
     "name": "Dietetfit",
@@ -60,9 +62,9 @@
     "url": "$SYNOLOGY_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "synology",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,16 +73,18 @@
     "timeWeek": 2006,
     "timeMonth": 1728,
     "timeYear": 1465,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-30": 0
+    }
   },
   {
     "name": "Home Automation",
     "url": "$AUTOMATION_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-automation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +93,8 @@
     "timeWeek": 456,
     "timeMonth": 449,
     "timeYear": 414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-30": 0
+    }
   }
 ]
