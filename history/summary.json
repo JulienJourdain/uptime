@@ -24,10 +24,10 @@
     "url": "https://dietetfit.fr",
     "icon": "https://favicons.githubusercontent.com/dietetfit.fr",
     "slug": "dietetfit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "87.37%",
-    "uptimeWeek": "97.98%",
+    "uptimeDay": "87.26%",
+    "uptimeWeek": "97.96%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.84%",
     "time": 4874,
@@ -36,7 +36,7 @@
     "timeMonth": 8519,
     "timeYear": 4874,
     "dailyMinutesDown": {
-      "2021-06-10": 182,
+      "2021-06-10": 184,
       "2021-06-08": 22,
       "2021-05-30": 46,
       "2021-04-23": 40
