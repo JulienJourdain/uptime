@@ -1,7 +1,7 @@
 url: $SYNOLOGY_URL
-status: up
-code: 200
-responseTime: 8752
-lastUpdated: 2021-06-11T20:34:35.123Z
+status: down
+code: 502
+responseTime: 9711
+lastUpdated: 2021-06-11T20:53:29.396Z
 startTime: Mon Feb 08 2021 18:41:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
