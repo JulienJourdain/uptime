@@ -1,7 +1,7 @@
 url: https://dietetfit.fr
-status: up
-code: 200
-responseTime: 11980
-lastUpdated: 2021-06-11T20:34:24.327Z
+status: down
+code: 502
+responseTime: 13997
+lastUpdated: 2021-06-11T20:52:58.718Z
 startTime: Sat Feb 06 2021 12:05:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
