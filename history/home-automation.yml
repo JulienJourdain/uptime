@@ -1,7 +1,7 @@
 url: $AUTOMATION_URL
-status: up
-code: 200
-responseTime: 594
-lastUpdated: 2021-06-11T20:34:36.749Z
+status: down
+code: 502
+responseTime: 9285
+lastUpdated: 2021-06-11T20:53:58.645Z
 startTime: Mon Feb 08 2021 18:41:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
