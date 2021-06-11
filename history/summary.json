@@ -24,9 +24,9 @@
     "url": "https://dietetfit.fr",
     "icon": "https://favicons.githubusercontent.com/dietetfit.fr",
     "slug": "dietetfit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "24.09%",
+    "uptimeDay": "24.41%",
     "uptimeWeek": "88.63%",
     "uptimeMonth": "97.28%",
     "uptimeYear": "99.32%",
@@ -68,9 +68,9 @@
     "slug": "synology",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "77.16%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "97.92%",
+    "uptimeDay": "77.72%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "99.49%",
     "time": 3161,
     "timeDay": 16792,
@@ -78,7 +78,7 @@
     "timeMonth": 6810,
     "timeYear": 3161,
     "dailyMinutesDown": {
-      "2021-06-11": 96,
+      "2021-06-11": 88,
       "2021-06-10": 232,
       "2021-05-30": 580
     }
